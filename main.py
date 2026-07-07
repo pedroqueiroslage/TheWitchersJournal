@@ -1,0 +1,19 @@
+from interface import Interface, menu
+from rich import print
+
+
+journal_sistema = Interface()
+while True:
+    per = menu('Qual opcão: ')
+    if per in '1234':
+        if per == '1':
+            journal_sistema.show_missions()
+        if per == '2':
+            journal_sistema.cad_mission()
+        if per == '3':
+            journal_sistema.conclude_mission()
+        if per == '4':
+            print('[blue]Fechando sistema...[/]')
+            break
+    else:
+        print('[red]Digite um valor válido![/]')
