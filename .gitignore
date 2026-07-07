@@ -1,10 +1,7 @@
-Ignorar configurações do PyCharm
 .idea/
 
-# Ignorar arquivos temporários do Python
 __pycache__/
 *.pyc
 
-# Ignorar o ambiente virtual (se você criou um no projeto)
 .venv/
 venv/
