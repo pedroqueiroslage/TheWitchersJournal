@@ -4,7 +4,7 @@ from rich import print
 
 journal_sistema = Interface()
 while True:
-    per = menu('Qual opcão: ')
+    per = menu('Choose an option: ')
     if per in '1234':
         if per == '1':
             journal_sistema.show_missions()
