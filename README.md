@@ -25,4 +25,3 @@ git clone [https://github.com/pedroqueiroslage/TheWitchersJournal.git](https://g
 ```bash
 pip install rich
 ``` 
-
