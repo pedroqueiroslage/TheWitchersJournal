@@ -13,7 +13,7 @@ while True:
         if per == '3':
             journal_sistema.conclude_mission()
         if per == '4':
-            print('[blue]Fechando sistema...[/]')
+            print('[blue]Closing the Journal...[/]')
             break
     else:
-        print('[red]Digite um valor válido![/]')
+        print('[red]Please enter a valid value.[/]')
