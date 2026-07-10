@@ -24,4 +24,12 @@ git clone [https://github.com/pedroqueiroslage/TheWitchersJournal.git](https://g
 2. **Rich Library installation**:
 ```bash
 pip install rich
-``` 
+```
+***
+##  Author
+
+Developed by **Pedro Queirós** - Feel free to reach out!
+
+* [LinkedIn](https://www.linkedin.com/in/pedro-queir%C3%B3s-lage-a7a4423a3/)
+* [GitHub](https://github.com/pedroqueiroslage)
+* Email: pedroqueiroslage09@gmail.com
