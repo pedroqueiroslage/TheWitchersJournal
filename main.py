@@ -16,4 +16,4 @@ while True:
             print('[blue]Closing the Journal...[/]')
             break
     else:
-        print('[red]Please enter a valid value.[/]')
+        print('[red]Please enter a valid value![/]')
